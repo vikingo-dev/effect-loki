@@ -1,0 +1,77 @@
+@import "tailwindcss";
+/* @import "tailwindcss/components"; */
+/* @import "tailwindcss/utilities"; */
+
+@font-face {
+  font-family: 'FontOne';
+  src: url('/fonts/fontOne.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontTwo';
+  src: url('/fonts/fontTwo.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontThree';
+  src: url('/fonts/fontThree.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontFour';
+  src: url('/fonts/fontFour.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontFive';
+  src: url('/fonts/fontFive.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontSix';
+  src: url('/fonts/fontSix.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontSeven';
+  src: url('/fonts/fontSeven.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FontDev';
+  src: url('/fonts/fontDev2.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@keyframes staticNoise {
+  0% {
+    opacity: 0.7;
+  }
+
+  100% {
+    opacity: 0.9;
+  }
+}
